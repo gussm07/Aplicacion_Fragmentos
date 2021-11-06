@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AplicacionFragmentos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint">Edit Text</string>
+    <string name="button">Procesar</string>
+    <string name="boton_agregar">Agregar</string>
 </resources>
